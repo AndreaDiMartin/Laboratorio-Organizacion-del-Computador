@@ -1,0 +1,32 @@
+# FONT 6x6
+a1: .asciiz "  ##  "	b1: .asciiz "##### "	c1: .asciiz " #### "	d1: .asciiz "##### "	e1: .asciiz " #####"	f1: .asciiz "######"	g1: .asciiz " #### "
+a2: .asciiz " #  # "	b2: .asciiz "#    #"	c2: .asciiz "##   #"	d2: .asciiz "#    #"	e2: .asciiz "#     "	f2: .asciiz "#     "	g2: .asciiz "#    #"
+a3: .asciiz "#    #"	b3: .asciiz "######"	c3: .asciiz "##    "	d3: .asciiz "#    #"	e3: .asciiz "######"	f3: .asciiz "##### "	g3: .asciiz "#     "
+a4: .asciiz "######"	b4: .asciiz "#    #"	c4: .asciiz "##    "	d4: .asciiz "#    #"	e4: .asciiz "#     "	f4: .asciiz "#     "	g4: .asciiz "# ####"
+a5: .asciiz "######"	b5: .asciiz "#    #"	c5: .asciiz "##   #"	d5: .asciiz "#    #"	e5: .asciiz "#     "	f5: .asciiz "#     "	g5: .asciiz "#    #"
+a6: .asciiz "#    #"	b6: .asciiz "##### "	c6: .asciiz " #### "	d6: .asciiz "##### "	e6: .asciiz "######"	f6: .asciiz "#     "	g6: .asciiz " #### "
+
+	
+h1: .asciiz "#    #" 	i1: .asciiz "######"	j1: .asciiz "######"	k1: .asciiz "##  ##"	l1: .asciiz "#     "	m1: .asciiz "#    #"	n1: .asciiz "#    #"
+h2: .asciiz "#    #"	i2: .asciiz "  ##  "	j2: .asciiz "#    #"	k2: .asciiz "## ## "	l2: .asciiz "#     "	m2: .asciiz "##  ##"	n2: .asciiz "##   #"
+h3: .asciiz "######"	i3: .asciiz "  ##  "	j3: .asciiz "     #"	k3: .asciiz "####  "	l3: .asciiz "#     "	m3: .asciiz "# ## #"	n3: .asciiz "# #  #"
+h4: .asciiz "######"	i4: .asciiz "  ##  "	j4: .asciiz "     #"	k4: .asciiz "######"	l4: .asciiz "#     "	m4: .asciiz "#    #"	n4: .asciiz "#  # #"
+h5: .asciiz "#    #"	i5: .asciiz "  ##  "	j5: .asciiz "#    #"	k5: .asciiz "##   #"	l5: .asciiz "#     "	m5: .asciiz "#    #"	n5: .asciiz "#   ##"
+h6: .asciiz "#    #"	i6: .asciiz "######"	j6: .asciiz " #### "	k6: .asciiz "##   #"	l6: .asciiz "######"	m6: .asciiz "#    #"	n6: .asciiz "#    #"
+
+
+o1: .asciiz " #### "	p1: .asciiz "##### "	q1: .asciiz " #### "	r1: .asciiz "##### "	s1: .asciiz " #####"	t1: .asciiz "######"	u1: .asciiz "#    #"
+o2: .asciiz "#    #"	p2: .asciiz "#    #"	q2: .asciiz "#    #"	r2: .asciiz "#    #"	s2: .asciiz "#     "	t2: .asciiz "  ##  "	u2: .asciiz "#    #"
+o3: .asciiz "#    #"	p3: .asciiz "######"	q3: .asciiz "#    #"	r3: .asciiz "##### "	s3: .asciiz " #####"	t3: .asciiz "  ##  "	u3: .asciiz "#    #"
+o4: .asciiz "#    #"	p4: .asciiz "##### "	q4: .asciiz "#  # #"	r4: .asciiz "# ##  "	s4: .asciiz " #####"	t4: .asciiz "  ##  "	u4: .asciiz "#    #"
+o5: .asciiz "#    #"	p5: .asciiz "#     "	q5: .asciiz "#   ##"	r5: .asciiz "#  ## "	s5: .asciiz "     #"	t5: .asciiz "  ##  "	u5: .asciiz "#    #"
+o6: .asciiz " #### "	p6: .asciiz "#     "	q6: .asciiz " #### "	r6: .asciiz "#   ##"	s6: .asciiz "##### "	t6: .asciiz "  ##  "	u6: .asciiz " #### "
+
+
+v1: .asciiz "#    #"	w1: .asciiz "#    #"	x1: .asciiz "#    #"	y1: .asciiz "#    #"	z1: .asciiz "######"
+v2: .asciiz "#    #"	w2: .asciiz "#    #"	x2: .asciiz "#    #"	y2: .asciiz "#    #"	z2: .asciiz "    # "
+v3: .asciiz "#    #"	w3: .asciiz "# ## #"	x3: .asciiz " #  # "	y3: .asciiz " #  # "	z3: .asciiz "   #  "
+v4: .asciiz "#    #"	w4: .asciiz "# ## #"	x4: .asciiz "  ##  "	y4: .asciiz "  ##  "	z4: .asciiz "  #   "
+v5: .asciiz "#    #"	w5: .asciiz "# ## #"	x5: .asciiz " #  # "	y5: .asciiz "  #   "	z5: .asciiz " #    "
+v6: .asciiz "  #   "	w6: .asciiz " #  # "	x6: .asciiz "#    #"	y6: .asciiz "  #   "	z6: .asciiz "######"
+

@@ -1,0 +1,18 @@
+.data
+A: .asciiz "LLLL"
+.text
+#la $a1,A
+lb $a0,A
+lui	$t0,0xffff	#ffff0000
+waitloop:
+	lw	$t1,8($t0)	#control
+	andi	$t1,$t1,0x0001
+	beq	$t1,$0,waitloop
+	sw	$a0,12($t0)	#data
+lb $a0,A+1
+waitloopi:
+	lw	$t1,8($t0)	#control
+	andi	$t1,$t1,0x0001
+	beq	$t1,$0,waitloopi
+	sw	$a0,12($t0)	#data
+	
